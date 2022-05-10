@@ -4,7 +4,7 @@ Data Engineer at DWP
 
 I am keen to upskill further in data analytics and engineering so have been working on a number of projects.
 
-I have started a blog on mojarrett.git.io
+I have started a blog which I am currently drafting to publish soon.
 
 ## Let's Connect
 
