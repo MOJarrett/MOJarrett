@@ -1,6 +1,6 @@
 # Hi there. I'm Max
 
-Data Engineer at DWP
+Data Engineer
 
 I am keen to upskill further in data analytics and engineering so have been working on a number of projects.
 
